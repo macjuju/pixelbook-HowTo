@@ -1,9 +1,11 @@
 # pixelbook-HowTo
 最初諗住只係 Host 個輸入法俾人 Download 下就算, 不過諗諗下橫掂都係放咪放多啲咁囉
 
-輸入法 - via JsCIN
-Source: https://chrome.google.com/webstore/detail/jscin-javascript-based-ch/cdkhibgadomdghgnknpmgegpjjmfecfk?hl=zh-TW
-教學: http://www.i-garden.org/blog/2018/03/23/chromebook%E5%AF%A6%E6%88%B0%E6%95%99%E5%AD%B8%E5%AE%8C%E5%85%A8%E4%B8%AD%E6%96%87%E8%BC%B8%E5%85%A5%E6%94%BB%E7%95%A5-jscin%E8%87%AA%E8%A3%BD%E5%8A%A0%E5%BC%B7%E7%89%88/
+輸入法 - JsCIN source:
+https://chrome.google.com/webstore/detail/jscin-javascript-based-ch/cdkhibgadomdghgnknpmgegpjjmfecfk?hl=zh-TW
+
+教學:
+http://www.i-garden.org/blog/2018/03/23/chromebook%E5%AF%A6%E6%88%B0%E6%95%99%E5%AD%B8%E5%AE%8C%E5%85%A8%E4%B8%AD%E6%96%87%E8%BC%B8%E5%85%A5%E6%94%BB%E7%95%A5-jscin%E8%87%AA%E8%A3%BD%E5%8A%A0%E5%BC%B7%E7%89%88/
 
 
 輸入法定義檔 *.cin
