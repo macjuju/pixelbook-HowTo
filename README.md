@@ -17,12 +17,11 @@ https://github.com/openvanilla/openvanilla/tree/master/DataTables
     1. simplex-hk.cin : 簡易 / 速成輸入法 
     2. CantonIM.cin: 廣東話輸入法
 
-=====[引述原文於 蘋狂陣 - Sep 05, 2009]=====
+#####[quote] 原文於 蘋狂陣 - Sep 05, 2009
 http://mac.hk/appletalk/viewtopic.php?f=2&t=48898
 我一直都用緊 OpenVanilla (香草輸入法, 下稱 OV), 其實除左佢係因為Opensource外, 主要係因為我用簡易太多了, 耐都我可以 BlindType 竹戈7 日人1 一日6 一日6 咁的. 要我竹木<Space><Space>1 (即係簡易的 "學" 字) 過 OSX 的輸入法, 恕真係唔掂.
   
 之後更花咗啲時間, 由網友 Moming 既幫助下我 Update 了由原先的 simplex.cin, 變成個可以打到香港字, 一路我都無再攪過任何野. 去到由 0.7.2 -> 0.8, 再由 0.8.0.3 都一路係咁用. 而係到近來少少時間先下用一個 Beta module - 聯想字. 但因為長時間的香草輸入法訓練, 對於聯想字的要求真係唔大.
 
-事源係發覺在 OSX 10.6 , 發覺如果在 OV 0.8.0.3 上, 如在啟動的情況下進入 Screensaver Mode, 之後居然係入 Password 果陣有問題. 我唔太Sure新出的 OV 0.9a 會否已Fix呢個問題, 但眼見咁多人都話用 Yahoo! KeyKey (奇摩輸入法, 下稱 Y!KK (因為叫YKK好似某朋友, XDDD).
-=====					
-
+事源係發覺在 OSX 10.6 , 發覺如果在 OV 0.8.0.3 上, 如在啟動的情況下進入 Screensaver Mode, 之後居然係入 Password 果陣有問題. 我唔太Sure新出的 OV 0.9a 會否已Fix呢個問題, 但眼見咁多人都話用 Yahoo! KeyKey (奇摩輸入法, 下稱 Y!KK (因為叫YKK好似某朋友, XDDD). 
+#####[/quote]
