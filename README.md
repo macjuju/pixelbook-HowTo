@@ -7,8 +7,8 @@
 
  Telegram: [@macjuju](https://t.me/macjuju) / Twitter: [@macjuju](https://twitter.com/macjuju) 
 ###### *利申: 家陣已少上Twitter, 要搵我未必即時回覆, 請見諒! 要搵我可能去 TalkOnly Band Group 會容易啲*
-# HowTo
-去 [Wiki](https://github.com/macjuju/pixelbook-HowTo/wiki) 度睇啦, 係呢度打打下發覺, 太多 Item 好難 Maintenance 的.
+# HowTo 教學
+教學文去 [HowTo Wiki 度睇啦](https://github.com/macjuju/pixelbook-HowTo/wiki), 所有打本來只係打落呢個Readme 度, 但打打下發覺太多 Item 好難 Maintenance 的.
 
 # History
 * 20200307 - 所有教學既野放左入去 wiki section
