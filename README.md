@@ -3,20 +3,15 @@
 最初諗住只係 Host 個輸入法定義檔 "cin file" 俾人 Download 下就算, 不過諗諗下橫掂都係, 咪放多啲、打多幾隻字咁, 作為一個 ~異種族レビュアーズ~ 異機種 Reviewer, 盡一隻 IT9 既攻民責任. 再次鳴謝 @netbugs 好介紹. :-)
 ##### > 嗱, 今次我無攻頂呀! :joy:
 
+放上來 github 而唔係好似以前咁, 只係在[某網頁寫左篇教學](http://mac.hk/appletalk/viewtopic.php?f=2&t=48898) + Dropbox 放低個 Source File既原因, 主要係想放出來大家有得用之餘, 重可以大家一齊參與、改善 - **輸入法呢啲野, 其實由倚天中文系統年代, 也是可以自定同獨立的系統的**.
+
  Telegram: [@macjuju](https://t.me/macjuju) / Twitter: [@macjuju](https://twitter.com/macjuju) 
 ###### *利申: 家陣已少上Twitter, 要搵我未必即時回覆, 請見諒! 要搵我可能去 TalkOnly Band Group 會容易啲*
-
-
-# HowTo Items
-## 試機
-## 安裝輸入法
-
-
-# 個人使用分享
-* 20200306 - 呢架機係好個人, 如果你諗住**改來安裝 Win10, 我會叫你唔好** - Unsupport Hardware, 衰過玩 Hackintosh. 但 ChromeOS + Android App使用感覺在安裝番好輸入法後就開心使用, 家陣作為梳化機既感覺一流。
-
+# HowTo
+去 [Wiki](https://github.com/macjuju/pixelbook-HowTo/wiki) 度睇啦, 係呢度打打下發覺, 太多 Item 好難 Maintenance 的.
 
 # History
+* 20200307 - 所有教學既野放左入去 wiki section
 * 20200306 - 起個 github page, 分享下
 * 20200305 - PowerWash / Recovery from USB Drive / 改 Firmware Parameter / 上網搵吓資料
 * 20200304 - 落坑, 2:30am 搵阿差, 9pm 拎機
