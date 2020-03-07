@@ -4,16 +4,15 @@
 ##### > 嗱, 今次我無攻頂呀! :joy:
 
  Telegram: [@macjuju](https://t.me/macjuju) / Twitter: [@macjuju](https://twitter.com/macjuju) 
-###### *利申: 家陣已少上Twitter, 要搵我未必即時回覆, 請見諒! 要搵我可能 Talkonly Band Group 會容易啲*
+###### *利申: 家陣已少上Twitter, 要搵我未必即時回覆, 請見諒! 要搵我可能去 TalkOnly Band Group 會容易啲*
 
 # HowTo Items
 ## 試機
 ## 安裝輸入法
-
+<br>
 # 個人使用分享
-
 * 20200306 - 呢架機係好個人, 如果你諗住改來安裝 Win10, 我會叫你唔好 - Unsupport Hardware, 衰過玩 Hackintosh. 但 ChromeOS + Android App使用感覺在安裝番好輸入法後就開心使用, 家陣作為梳化機既感覺一流。
-
+<br>
 # History
 
 * 20200306 - 起個 github page, 分享下
