@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 最初諗住只係 Host 個輸入法定義檔 "cin file" 俾人 Download 下就算, 不過諗諗下橫掂都係, 咪放多啲、打多幾隻字咁, 作為一個 ~異種族レビュアーズ~ 異機種 Reviewer, 盡一隻 IT9 既攻民責任. 再次鳴謝 @netbugs 好介紹. :-)
 ##### > 嗱, 今次我無攻頂呀! :joy:
@@ -7,10 +7,13 @@
 
  Telegram: [@macjuju](https://t.me/macjuju) / Twitter: [@macjuju](https://twitter.com/macjuju) 
 ###### *利申: 家陣已少上Twitter, 要搵我未必即時回覆, 請見諒! 要搵我可能去 TalkOnly Band Group 會容易啲*
-# HowTo 教學
+
+
+## HowTo 教學
 教學文去 [HowTo Wiki 度睇啦](https://github.com/macjuju/pixelbook-HowTo/wiki), 所有打本來只係打落呢個Readme 度, 但打打下發覺太多 Item 好難 Maintenance 的.
 
-# History
+
+## History
 * 20200307 - 所有教學既野放左入去 wiki section
 * 20200306 - 起個 github page, 分享下
 * 20200305 - PowerWash / Recovery from USB Drive / 改 Firmware Parameter / 上網搵吓資料
